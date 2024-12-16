@@ -14,10 +14,14 @@
 
 ### Make account with certificate
 - If you dont have create CMD + , or XCode->Settings->Accounts->Make one with certificate
+
 ### Allow app to be build and run independantly from MAC
 
 - Product->Scheme->Edit scheme->Build configuration->
   - Run->Build Configuration->Release
+ 
   <img width="918" alt="image" src="https://github.com/user-attachments/assets/f9adab25-ec57-4a29-a99e-0f14989f6276" />
-  - Archive->Build Configuration->Release 
+  
+  - Archive->Build Configuration->Release
+  
   <img width="925" alt="image" src="https://github.com/user-attachments/assets/226e3cbe-2033-4181-8c90-4058b8ef9c9d" />
